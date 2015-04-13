@@ -1,2 +1,1 @@
-new remote file content
-
+Modified content
